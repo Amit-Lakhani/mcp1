@@ -5,6 +5,10 @@ Welcome to your generated MCP server! 🚀 This project was created with the [Po
 - ✅ An MCP-compatible server (`mcpServer.js`)
 - ✅ Automatically generated JavaScript tools for each selected Postman API request
 
+<a href="https://glama.ai/mcp/servers/@Amit-Lakhani/mcp1">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@Amit-Lakhani/mcp1/badge" alt="Postman Generator MCP server" />
+</a>
+
 Let's set things up!
 
 ## 🚦 Getting Started
